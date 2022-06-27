@@ -1,5 +1,5 @@
 # Jupyter
-** import 明明安装了，但是还找不到 **
+**import 明明安装了，但是还找不到**
 Jupyter 的环境和conda中的不一样，很容易导致上述问题  
 解决方法：  
 conda install nb_conda_kernels  
