@@ -16,3 +16,4 @@ https://blueskyproject.io/ophyd/tutorials/install.html
 
 https://blueskyproject.io/ophyd/tutorials/install.html
 如果**报错**说没有caproto这个模块，用上面这个网址的pip命令，安装一下（完全按照这个PIP里的命令，完全！！！）
+这个问题还是因为在不同的环境下安装了模块的原因
